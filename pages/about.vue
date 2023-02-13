@@ -7,7 +7,13 @@
   </div>
 </template>
 
-<script>
+<script lang="ts" setup>
+useHead({
+  title: 'About page title',
+  meta: [
+    {name: 'description', content: 'About description site.'}
+  ]
+})
 </script>
 
 <style scoped>

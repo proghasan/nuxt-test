@@ -25,6 +25,7 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style>
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "@/assets/main.css";
 </style>
