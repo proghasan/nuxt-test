@@ -1,1 +1,0 @@
-import{a as o,b as t,o as s,e}from"./entry.11f27b0e.js";const c={},n={class:"container"},_=e("h1",null,"Home Page",-1),a=e("p",null," Lorem test home ",-1),r=[_,a];function d(i,l){return s(),t("div",n,r)}const m=o(c,[["render",d]]);export{m as default};
