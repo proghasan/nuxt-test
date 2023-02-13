@@ -4,4 +4,7 @@ export default defineNuxtConfig({
         'bootstrap/dist/css/bootstrap.min.css',
         "~/assets/main.css"
     ],
+    // app: {
+    //     baseURL: 'nuxt-test'
+    // }
 })
